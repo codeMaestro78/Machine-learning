@@ -1,3 +1,20 @@
-.gitignore
-.venv
-.idea
+# Python virtual environment
+.venv/
+
+# IDE settings
+.idea/
+
+# __pycache__ folders
+__pycache__/
+*.py[cod]
+
+# Byte-compiled or optimized files
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS / Windows hidden files
+.DS_Store
+Thumbs.db

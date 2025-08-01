@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baed3b65-556f-47d8-b649-2e02c07daee4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Machine learning/Supervised learning/LinearRegression/Breast_cancer_dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Machine learning/Supervised learning/LinearRegression/Linear regression from scratch.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Machine learning/Supervised learning/LinearRegression/Linear regression implementation.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="baed3b65-556f-47d8-b649-2e02c07daee4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +51,7 @@
       <recent name="C:\Users\Admin\PycharmProjects\PythonProject\Machine learning\Supervised learning" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\PythonProject" />
       <recent name="C:\Users\Admin\PycharmProjects\PythonProject\Machine learning\Supervised learning\LinearRegression" />
     </key>
   </component>
@@ -81,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1754051926977</updated>
       <workItem from="1754051928085" duration="1104000" />
-      <workItem from="1754073247116" duration="6932000" />
+      <workItem from="1754073247116" duration="7370000" />
     </task>
     <servers />
   </component>
