@@ -1,8 +1,10 @@
 Descriptive Statistics Formulas
+Overview
+This document provides a comprehensive reference for key descriptive statistics concepts and their formulas, including types of data, measures of central tendency, measures of dispersion, skewness, and kurtosis. The formulas are presented in LaTeX for clarity and can be used in statistical analysis, data science, or academic studies.
 Types of Data
 
 Qualitative Data: Non-numerical data that describes categories or qualities (e.g., colors, names, or labels).
-Quantitative Data: Numerical data that represents quantities or amounts, further divided into:
+Quantitative Data: Numerical data representing quantities or amounts, divided into:
 Discrete: Countable values (e.g., number of students).
 Continuous: Measurable values within a range (e.g., height, weight).
 
@@ -67,7 +69,20 @@ Zero skew: Symmetric distribution
 Kurtosis
 Measures the "tailedness" or peakedness of the data distribution.[\text{Kurtosis} = \frac{\sum_{i=1}^{n} (x_i - \bar{x})^4 / n}{s^4} - 3]Where:
 
-Subtracting 3 normalizes the value (excess kurtosis) relative to a normal distribution.
+(s): Sample standard deviation
+Subtracting 3 normalizes the value (excess kurtosis) relative to a normal distribution
 Positive kurtosis: Heavy tails, sharp peak (leptokurtic)
 Negative kurtosis: Light tails, flat peak (platykurtic)
 Zero kurtosis: Normal distribution (mesokurtic)
+
+Usage
+
+Use this document as a quick reference for statistical analysis in research, data science, or academic studies.
+The formulas are presented in LaTeX format for clarity and can be implemented in programming languages like Python (using libraries like NumPy or SciPy), R, or statistical software.
+To view the formulas properly, use a Markdown viewer with LaTeX support (e.g., GitHub, Visual Studio Code with a Markdown+Math extension, or Jupyter Notebook).
+
+Notes
+
+Distinguish between population and sample formulas (e.g., variance and standard deviation) based on your dataset.
+Skewness and kurtosis calculations here assume sample data; adjust denominators for population data if needed.
+For practical implementation, statistical libraries in Python (e.g., NumPy, SciPy) or R can compute these metrics efficiently.
