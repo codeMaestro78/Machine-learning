@@ -41,6 +41,7 @@ Each upload may include:
 - Hierarchical Clustering
 - DBSCAN
 - Principal Component Analysis (PCA)
+- More will coming soon...
 
 ### 🔜 Phase 3: Reinforcement Learning **or** Deep Learning (TBD)
 After completing supervised and unsupervised models, I’ll begin exploring either:
