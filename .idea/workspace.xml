@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baed3b65-556f-47d8-b649-2e02c07daee4" name="Changes" comment="" />
+    <list default="true" id="baed3b65-556f-47d8-b649-2e02c07daee4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine learning/Unsupervised Learning/Clustering Algorithms/DBSCAN (Density based spatial clustering of application iwith noise).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine learning/Unsupervised Learning/Clustering Algorithms/DBSCAN (Density based spatial clustering of application iwith noise).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine learning/Unsupervised Learning/Manifold learning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine learning/Unsupervised Learning/Manifold learning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/linear_regression.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +27,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -31,26 +43,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/PythonProject/Machine learning/Supervised learning",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Devarshi/PycharmProjects/PythonProject/Machine learning/Datasets_kaggle&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JSON&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Devarshi\PycharmProjects\PythonProject\Machine learning\Datasets_kaggle" />
+      <recent name="C:\Users\Admin\PycharmProjects\PythonProject\Books" />
+      <recent name="C:\Users\Admin\PycharmProjects\PythonProject\Machine learning\Supervised learning\Logistic regression" />
       <recent name="C:\Users\Admin\PycharmProjects\PythonProject\Machine learning\Supervised learning" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\PythonProject\Machine learning\Supervised learning" />
+      <recent name="C:\Users\Admin\PycharmProjects\PythonProject\Machine learning\Supervised learning\Logistic regression" />
+      <recent name="C:\Users\Admin\PycharmProjects\PythonProject\Mathematics For machine learning" />
       <recent name="C:\Users\Admin\PycharmProjects\PythonProject" />
       <recent name="C:\Users\Admin\PycharmProjects\PythonProject\Machine learning\Supervised learning\LinearRegression" />
     </key>
@@ -58,8 +83,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
-        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.130" />
+        <option value="bundled-python-sdk-1bde30d8e611-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.130" />
       </set>
     </attachedChunks>
   </component>
@@ -71,11 +96,59 @@
       <option name="presentableId" value="Default" />
       <updated>1754051926977</updated>
       <workItem from="1754051928085" duration="1104000" />
-      <workItem from="1754073247116" duration="7370000" />
+      <workItem from="1754073247116" duration="7835000" />
+      <workItem from="1754123250572" duration="4943000" />
+      <workItem from="1754226761867" duration="7872000" />
+      <workItem from="1754292353544" duration="3931000" />
+      <workItem from="1754296434510" duration="8330000" />
+      <workItem from="1754377060836" duration="17059000" />
+      <workItem from="1754470546822" duration="21643000" />
+      <workItem from="1754555255932" duration="804000" />
+      <workItem from="1754722034840" duration="7568000" />
+      <workItem from="1754812998414" duration="1617000" />
+      <workItem from="1754857329812" duration="7118000" />
+      <workItem from="1755006540488" duration="6480000" />
+      <workItem from="1755117148847" duration="3283000" />
+      <workItem from="1755200399394" duration="3429000" />
+      <workItem from="1755245139113" duration="1974000" />
+      <workItem from="1755550861701" duration="726000" />
+      <workItem from="1755551651705" duration="1094000" />
+      <workItem from="1755709014455" duration="998000" />
+      <workItem from="1755760057085" duration="8511000" />
+      <workItem from="1755796763161" duration="324000" />
+      <workItem from="1755854547142" duration="3041000" />
+      <workItem from="1755968432910" duration="1063000" />
+      <workItem from="1756019436836" duration="2736000" />
+      <workItem from="1756190588771" duration="5245000" />
+      <workItem from="1756293119796" duration="5163000" />
+      <workItem from="1756362074760" duration="11895000" />
+      <workItem from="1756497462145" duration="326000" />
+      <workItem from="1756497810693" duration="670000" />
+      <workItem from="1756723775312" duration="2250000" />
+      <workItem from="1756799361814" duration="473000" />
+      <workItem from="1756828279274" duration="19000" />
+      <workItem from="1756835084203" duration="118000" />
+      <workItem from="1756835280066" duration="186000" />
+      <workItem from="1756835482402" duration="12000" />
+      <workItem from="1756836243760" duration="3808000" />
+      <workItem from="1756843608213" duration="2492000" />
+      <workItem from="1756886099768" duration="11294000" />
+      <workItem from="1756973849901" duration="10640000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Machine learning/Supervised learning/Logistic regression/Logistic regression from scratch.ipynb</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

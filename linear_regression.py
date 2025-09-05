@@ -25,3 +25,4 @@ class LinearRegression:
         n_samples = len(X)
         n_features = len(X[0]) if n_samples > 0 else 0
         return [sum(X[i][j] * self.weights[j] for j in range(n_features)) + self.bias for i in range(n_samples)]
+
