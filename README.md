@@ -68,6 +68,7 @@ All important mathematical foundations will be uploaded, including:
 - NumPy, Pandas, Matplotlib
 - scikit-learn, XGBoost, seaborn
 - Jupyter Notebooks & Markdown
+- Tensorflow (Deep learning)
 
 ---
 
