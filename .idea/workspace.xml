@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baed3b65-556f-47d8-b649-2e02c07daee4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Books/100_Numpy_exercises.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Machine learning/Deep learning/neural network.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Books/100_Numpy_exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Books/100_Numpy_exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine learning/Deep learning/optimization in neural network.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine learning/Deep learning/optimization in neural network.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Machine learning/Unsupervised Learning/Clustering Algorithms/DBSCAN (Density based spatial clustering of application iwith noise).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine learning/Unsupervised Learning/Clustering Algorithms/DBSCAN (Density based spatial clustering of application iwith noise).ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,28 +41,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Devarshi/PycharmProjects/PythonProject/Books",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Devarshi/PycharmProjects/PythonProject/Books&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JSON"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JSON&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Devarshi\PycharmProjects\PythonProject\Books" />
@@ -72,11 +72,11 @@
       <recent name="C:\Users\Admin\PycharmProjects\PythonProject\Machine learning\Supervised learning" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Devarshi\PycharmProjects\PythonProject" />
       <recent name="C:\Users\Admin\PycharmProjects\PythonProject\Machine learning\Supervised learning" />
       <recent name="C:\Users\Admin\PycharmProjects\PythonProject\Machine learning\Supervised learning\Logistic regression" />
       <recent name="C:\Users\Admin\PycharmProjects\PythonProject\Mathematics For machine learning" />
       <recent name="C:\Users\Admin\PycharmProjects\PythonProject" />
-      <recent name="C:\Users\Admin\PycharmProjects\PythonProject\Machine learning\Supervised learning\LinearRegression" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -135,6 +135,10 @@
       <workItem from="1756973849901" duration="10640000" />
       <workItem from="1757059206711" duration="2186000" />
       <workItem from="1757270315983" duration="4154000" />
+      <workItem from="1757274764806" duration="3475000" />
+      <workItem from="1757317831860" duration="8629000" />
+      <workItem from="1757450725730" duration="3659000" />
+      <workItem from="1757623752385" duration="1546000" />
     </task>
     <servers />
   </component>
