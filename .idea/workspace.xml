@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baed3b65-556f-47d8-b649-2e02c07daee4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Mathematics For machine learning/Markov chain and process.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Books/100_Numpy_exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Books/100_Numpy_exercises.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine learning/Deep learning/optimization in neural network.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine learning/Deep learning/optimization in neural network.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine learning/Unsupervised Learning/Clustering Algorithms/DBSCAN (Density based spatial clustering of application iwith noise).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine learning/Unsupervised Learning/Clustering Algorithms/DBSCAN (Density based spatial clustering of application iwith noise).ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +137,7 @@
       <workItem from="1757317831860" duration="8629000" />
       <workItem from="1757450725730" duration="3659000" />
       <workItem from="1757623752385" duration="1546000" />
+      <workItem from="1757625353652" duration="2212000" />
     </task>
     <servers />
   </component>
