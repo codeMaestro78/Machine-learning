@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baed3b65-556f-47d8-b649-2e02c07daee4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Mathematics For machine learning/Markov chain and process.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep learning/Tensorflow/Creating tensors.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep learning/Tensorflow/implement Linear Regression from scratch in TensorFlow.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +47,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Devarshi/PycharmProjects/PythonProject/Books&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -138,6 +141,10 @@
       <workItem from="1757450725730" duration="3659000" />
       <workItem from="1757623752385" duration="1546000" />
       <workItem from="1757625353652" duration="2212000" />
+      <workItem from="1757627911760" duration="52000" />
+      <workItem from="1757705856323" duration="2957000" />
+      <workItem from="1757795029042" duration="1693000" />
+      <workItem from="1757840344190" duration="2272000" />
     </task>
     <servers />
   </component>
