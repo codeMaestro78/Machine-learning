@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="baed3b65-556f-47d8-b649-2e02c07daee4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep learning/Tensorflow/Logistic Regression from scratch in TensorFlow.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Deep learning/Tensorflow/Logistic Regression from scratch in TensorFlow.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +143,7 @@
       <workItem from="1757795029042" duration="1693000" />
       <workItem from="1757840344190" duration="4772000" />
       <workItem from="1757845862496" duration="3308000" />
-      <workItem from="1757915317251" duration="306000" />
+      <workItem from="1757915317251" duration="1378000" />
     </task>
     <servers />
   </component>
