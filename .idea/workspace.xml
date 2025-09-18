@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="baed3b65-556f-47d8-b649-2e02c07daee4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep learning/Tensorflow/Multi-Layer Perceptrons(MLP).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Deep learning/Tensorflow/Multi-Layer Perceptrons(MLP).ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +145,8 @@
       <workItem from="1757840344190" duration="4772000" />
       <workItem from="1757845862496" duration="3308000" />
       <workItem from="1757915317251" duration="1378000" />
+      <workItem from="1757969520023" duration="263000" />
+      <workItem from="1758097435215" duration="8516000" />
     </task>
     <servers />
   </component>
