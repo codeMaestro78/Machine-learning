@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baed3b65-556f-47d8-b649-2e02c07daee4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Mathematics For machine learning/Diffrential equations.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="Jupyter Notebook" />
       </list>
     </option>
@@ -146,7 +148,8 @@
       <workItem from="1757915317251" duration="1378000" />
       <workItem from="1757969520023" duration="263000" />
       <workItem from="1758097435215" duration="8516000" />
-      <workItem from="1758219773709" duration="1239000" />
+      <workItem from="1758219773709" duration="1698000" />
+      <workItem from="1758359008881" duration="2911000" />
     </task>
     <servers />
   </component>
