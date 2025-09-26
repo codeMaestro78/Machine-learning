@@ -45,7 +45,7 @@ Each upload may include:
 
 ### 🔜 Phase 3: Reinforcement Learning **or** Deep Learning (TBD)
 After completing supervised and unsupervised models, I’ll begin exploring either:
-- **Reinforcement Learning**: Q-Learning, SARSA, Policy Gradients  
+- **Reinforcement Learning**: Q-Learning, SARSA, Policy Gradients
   *or*
 - **Deep Learning**: Neural Networks, Backpropagation, CNNs, RNNs, Autoencoders
 
