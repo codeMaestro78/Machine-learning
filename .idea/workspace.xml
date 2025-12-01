@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="baed3b65-556f-47d8-b649-2e02c07daee4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine learning/Performace matrix.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine learning/Performace matrix.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mathematics For machine learning/Diffrential equations.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradient_descent.py" beforeDir="false" afterPath="$PROJECT_DIR$/gradient_descent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep learning/Tensorflow/RMSProp(Optimizer).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Deep learning/Tensorflow/RMSProp(Optimizer).ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,6 +174,9 @@
       <workItem from="1759175689984" duration="330000" />
       <workItem from="1759238305463" duration="1470000" />
       <workItem from="1759336334337" duration="140000" />
+      <workItem from="1761413574359" duration="1574000" />
+      <workItem from="1761553606189" duration="113000" />
+      <workItem from="1761553958117" duration="174000" />
     </task>
     <servers />
   </component>
